@@ -1,0 +1,13 @@
+patient_id,diagnosis,medical_history,allergies
+MG-1001,Acute Myocardial Infarction — anterior wall involvement,"Hypertension (10yr), Type-2 Diabetes, Prior angioplasty 2022","Penicillin, Sulfa drugs"
+MG-1002,"Migraine with aura — chronic, recurrent","Asthma (childhood), No prior surgeries",Ibuprofen
+MG-1003,"Compound fracture — right femur, post-RTA",No significant prior history,None known
+MG-1004,Acute bronchitis with mild bronchospasm,"Frequent URTI episodes, vaccination up-to-date",Egg protein
+MG-1005,"Pneumonia — community-acquired, moderate severity","COPD Stage II, Ex-smoker (quit 2019)",Azithromycin
+MG-1006,Congestive Heart Failure — NYHA Class III,"Rheumatic heart disease, Mitral valve replacement 2015, Hypothyroidism","Contrast dye, Aspirin"
+MG-1007,"Polytrauma — RTA, hemopneumothorax left, splenic laceration Grade III",No known prior illness,None known
+MG-1008,"Invasive Ductal Carcinoma — left breast, Stage IIA","Hypertension, Family history of breast cancer (mother)",Latex
+MG-1009,Epilepsy — focal onset with secondary generalization,"Childhood febrile seizures, appendectomy 2010",Carbamazepine
+MG-1010,Dengue Fever — thrombocytopenia with warning signs,No significant past history,None known
+MG-1011,Lumbar disc herniation L4-L5 with radiculopathy,"Sedentary lifestyle, BMI 31",Diclofenac
+MG-1012,"Atrial Fibrillation — persistent, with moderate MR","Diabetes Type-2 (15yr), Dyslipidemia, Cataract surgery 2023",ACE Inhibitors (cough)

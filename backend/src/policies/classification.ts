@@ -1,0 +1,71 @@
+import { DataClassification, PatientField, RoleName } from '../types';
+
+export const DATA_CLASSIFICATIONS: Record<string, DataClassification> = {
+  patient_id: 'INTERNAL',
+  name: 'PII',
+  age: 'INTERNAL',
+  gender: 'INTERNAL',
+  blood_group: 'CLINICAL',
+  department: 'INTERNAL',
+  doctor: 'INTERNAL',
+  diagnosis: 'HIGHLY_CONFIDENTIAL',
+  medical_history: 'CLINICAL',
+  allergies: 'CLINICAL',
+  medications: 'CLINICAL',
+  lab_reports_summary: 'HIGHLY_CONFIDENTIAL',
+  medical_images_ref: 'HIGHLY_CONFIDENTIAL',
+  insurance_provider: 'FINANCIAL',
+  insurance_id: 'FINANCIAL',
+  billing_amount: 'FINANCIAL',
+  phone: 'PII',
+  email: 'PII',
+  government_id: 'HIGHLY_CONFIDENTIAL',
+  emergency_contact: 'PII',
+  admission_date: 'INTERNAL',
+  room_number: 'INTERNAL',
+  status: 'INTERNAL',
+};
+
+export const ALL_PATIENT_FIELDS: PatientField[] = [
+  'patient_id', 'name', 'age', 'gender', 'blood_group', 'department',
+  'doctor', 'diagnosis', 'medical_history', 'allergies', 'medications',
+  'lab_reports_summary', 'medical_images_ref', 'insurance_provider',
+  'insurance_id', 'billing_amount', 'phone', 'email', 'government_id',
+  'emergency_contact', 'admission_date', 'room_number', 'status',
+];
+
+export const FIELD_LABELS: Record<string, string> = {
+  patient_id: 'Patient ID',
+  name: 'Patient Name',
+  age: 'Age',
+  gender: 'Gender',
+  blood_group: 'Blood Group',
+  department: 'Department',
+  doctor: 'Attending Doctor',
+  diagnosis: 'Diagnosis',
+  medical_history: 'Medical History',
+  allergies: 'Allergies',
+  medications: 'Medications',
+  lab_reports_summary: 'Lab Reports',
+  medical_images_ref: 'Medical Images',
+  insurance_provider: 'Insurance Provider',
+  insurance_id: 'Insurance ID',
+  billing_amount: 'Billing Amount',
+  phone: 'Phone',
+  email: 'Email',
+  government_id: 'Government ID',
+  emergency_contact: 'Emergency Contact',
+  admission_date: 'Admission Date',
+  room_number: 'Room Number',
+  status: 'Status',
+};
+
+export const ROLE_DEPARTMENT_ACCESS: Record<RoleName, string[] | '*'> = {
+  'Doctor': [],
+  'Nurse': [],
+  'Lab Technician': '*',
+  'Pharmacist': '*',
+  'Billing Staff': '*',
+  'Emergency Physician': '*',
+  'Hospital Admin': '*',
+};

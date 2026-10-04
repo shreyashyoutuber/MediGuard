@@ -1,0 +1,13 @@
+patient_id,name,age,gender,blood_group,phone,address,department,doctor
+MG-1001,Aarav Patel,58,Male,B+,9876543210,,Cardiology,Dr. Arjun Mehra
+MG-1002,Priya Sharma,34,Female,A+,9123456789,,Neurology,Dr. Priya Desai
+MG-1003,Rohan Gupta,45,Male,O+,9988776655,,Orthopedics,Dr. Sanjay Kapoor
+MG-1004,Ananya Singh,8,Female,AB+,9871234567,,Pediatrics,Dr. Neha Bhatt
+MG-1005,Vikram Reddy,62,Male,A-,9845123456,,General Medicine,Dr. Lakshmi Iyer
+MG-1006,Meera Joshi,71,Female,B-,9756432100,,Cardiology,Dr. Arjun Mehra
+MG-1007,Arjun Nair,29,Male,O-,9600112233,,Emergency,Dr. Kavita Saxena
+MG-1008,Kavya Menon,52,Female,A+,9445566778,,Oncology,Dr. Ramesh Kulkarni
+MG-1009,Siddharth Das,40,Male,B+,9334455667,,Neurology,Dr. Priya Desai
+MG-1010,Deepika Rao,27,Female,O+,9223344556,,General Medicine,Dr. Lakshmi Iyer
+MG-1011,Aditya Kumar,35,Male,AB-,9112233445,,Orthopedics,Dr. Sanjay Kapoor
+MG-1012,Neha Verma,66,Female,A+,9667788990,,Cardiology,Dr. Arjun Mehra

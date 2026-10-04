@@ -1,0 +1,13 @@
+patient_id,lab_reports_summary
+MG-1001,"Troponin-I elevated (2.8 ng/mL), BNP 450 pg/mL, HbA1c 7.2%"
+MG-1002,"MRI Brain: Normal, EEG: Mild non-specific changes"
+MG-1003,"CBC normal, PT/INR 1.1, Creatinine 0.9"
+MG-1004,"CBC: Mild leukocytosis (WBC 12,400), CRP 18 mg/L"
+MG-1005,"SpO2: 92%, Chest XRAY: bilateral infiltrates, Procalcitonin 1.8"
+MG-1006,"BNP 1280 pg/mL, INR 2.4, TSH 5.2, Echo: EF 30%"
+MG-1007,"Hb 7.2, Platelets 1.1L, Lactate 4.8, FAST: Free fluid in LUQ"
+MG-1008,"CA 15-3: 42 U/mL, CEA: 6.2, Biopsy: ER+/PR+/HER2-"
+MG-1009,"EEG: Epileptiform discharges left temporal, MRI: Left MTS"
+MG-1010,"NS1 Ag: Positive, Platelets: 42,000, Hematocrit: 42%"
+MG-1011,MRI Lumbar: L4-L5 disc prolapse with thecal sac compression
+MG-1012,"ECG: AF rate 88/min, Echo: LA dilated 4.6cm, EF 48%, Mod MR"
